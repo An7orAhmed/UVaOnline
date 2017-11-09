@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510246986 source:e:\github\uvaonline\problem set 100-1999\the 3n + 1 problem\main.c
+	<stdio.h>
+	<stdlib.h>
+
