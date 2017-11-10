@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1510325787 source:e:\github\uvaonline\competitive programming 3\introduction\super easy\hajj-e-akbar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
