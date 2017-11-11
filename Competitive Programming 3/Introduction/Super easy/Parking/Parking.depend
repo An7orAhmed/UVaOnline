@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1510339159 source:e:\github\uvaonline\competitive programming 3\introduction\super easy\parking\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
